@@ -3,4 +3,4 @@
 ## alt bilgi
 google'a girmek için link aşağıdadır.
 
-[lorem ipsum](http://google.com)
+[google](http://google.com)
