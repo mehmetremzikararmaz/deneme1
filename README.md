@@ -1,6 +1,6 @@
 # deneme1
 
 ## alt bilgi
-lalalallalalala
-agkshksh
+google'a girmek için link aşağıdadır.
+
 [lorem ipsum](http://google.com)
