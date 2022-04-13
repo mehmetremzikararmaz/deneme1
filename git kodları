@@ -8,3 +8,5 @@ git checout branchName
 git push
 git pull
 git clone
+
+altgr + , --> backtick `bu
