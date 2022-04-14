@@ -1,6 +1,0 @@
-aşağıdakileri versiyonlamak istemem!
-# .gitignore
-# görseller
-# videolar
-# logolar
-# paket yöneticisi ile kurulmuş dosyalar olabilir
