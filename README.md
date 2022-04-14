@@ -3,5 +3,5 @@
 ## alt bilgi
 google'a girmek için link aşağıdadır.
 
-[google](http://google.com)
+[wwww.google.com](http://google.com)
 
